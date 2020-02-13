@@ -97,7 +97,7 @@ color: black !important;
 .rep{
 
     font-family: 'Lato', sans-serif;
-    text-align: center;
+    text-align:left;
     font-size:23px;
     font-weight: 100;
     margin-top: 50px;
@@ -148,19 +148,19 @@ text-align: left !important;
     color:tomato;
     font-style: normal;
     font-weight:700;
-    letter-spacing: 1px;
-    text-align:center;
-    font-size:15px;
+    letter-spacing: 0px;
+    text-align:left;
+    font-size:18px;
 }
 
 
 .logo-black{
 
-display: block;
-margin-left: auto;
-margin-right: auto;
+
 width: 45px;
-margin-top: 100px;
+margin-top: 150px;
+
+
 
 
 }
@@ -192,14 +192,16 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 margin-top:100px;
+margin-left:100px;
 
 
     }
 
 .suv{
 
-margin-top: 30px;
-margin-bottom:30px;
+margin-top: 60px;
+margin-bottom:40px;
+color:tomato;
 font-family: 'Lato', sans-serif;
 
 
@@ -208,6 +210,8 @@ font-family: 'Lato', sans-serif;
 .suv-x{
 
     font-family: 'Lato', sans-serif;
+    color: rgba(0, 0, 0, 0.473);
+    font-size:15px;
 
 }
 
@@ -219,10 +223,8 @@ margin-top: 30px;
 
 .magic{
 
-width:900px;
-display: block;
-margin-left: auto;
-margin-right: auto;
+width:750px;
+float: left;
 margin-top:70px;
 margin-bottom:100px;
 
@@ -247,8 +249,70 @@ margin-top: 150px;
     font-weight: 500;
     margin-top:30px;
 
+}
+
+
+.exp-3{
+
+
+    font-family: 'Lato', sans-serif;
+    color: rgba(0, 0, 0, 0.473);
+    margin-top: 30px;
+    font-weight: 700;
 
 }
 
 
-  
+.number{
+
+    margin-left: 120px;
+    margin-top:50px;
+    height:60px;
+    width:45%;
+    border:tomato 1.2px solid;
+    color: rgba(0, 0, 0, 0.473);
+    font-family: 'Lato', sans-serif !important;
+    padding: 5px 5px 5px 15px;
+    outline: none;
+
+    
+}
+
+.btn-request{
+
+    height:60px;
+    background-color:transparent;
+    border: #4948BB 1.2px solid;
+    background-color: #4948BB;
+    margin-left:8px;
+    padding: 12px 12px 12px 12px;
+    color: white;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+
+
+
+}
+
+
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    font-family: 'Lato', sans-serif !important;
+  font-size:14px;
+  padding: 5px 5px 5px 15px;
+  color: rgba(0, 0, 0, 0.473);
+  }
+
+
+  .policy{
+
+    font-family: 'Lato', sans-serif !important;
+    font-size:12px;
+    padding-left: 120px;
+    text-align:left;
+    margin-top:45px;
+    color: rgba(0, 0, 0, 0.473);
+    margin-bottom: 150px;
+
+
+}
