@@ -156,14 +156,21 @@ text-align: left !important;
 
 .logo-black{
 
-float: left;
+
 width: 45px;
 margin-top: 150px;
 
 
+}
 
+
+.icon-size{
+
+width: 55px;
+margin-top:20px;
 
 }
+
 
 
 
@@ -171,6 +178,7 @@ margin-top: 150px;
 
 width: 55px;
 margin-top:30px;
+margin-left:120px;
 
 }
 
@@ -192,7 +200,7 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 margin-top:100px;
-margin-left:100px;
+
 
 
     }
