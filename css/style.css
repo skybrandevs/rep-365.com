@@ -658,7 +658,28 @@ margin-left: 18px;
     margin-left:30px;
     
     }
-    
+
+
+
+    .font-menu{
+
+        font-family: 'Lato', sans-serif;
+        font-weight: 300;
+        font-size:15px;
+        color:white !important;
+        margin-top:10px;
+        text-align: right;
+    }
+
+
+    .logo-2{
+display: none;
+        
+        }
+
+        .mrg-menu-credit{
+            margin-top: 150px;
+        }
 
 
 
