@@ -682,10 +682,248 @@ display: none;
         }
 
 
+}
 
-    
+
+
+@media screen 
+and (max-width:720px)
+and (max-height:1440px)
+ and (max-resolution: 268dpi)
+ and (-webkit-max-device-pixel-ratio:2)
+ {
+
+  .intro{
+
+      font-family: 'Lato', sans-serif;
+      text-align:left;
+      margin-top: 120px;
+      color:tomato;
+      font-style: normal;
+      font-weight:500;
+      padding-left:30px;
+  
+  }
+
+
+
+
+.intro-header{
+  font-family: 'Lato', sans-serif;
+  font-size:25px;
+  margin-top:30px;
+  font-weight:bolder;
+  text-align:left;
+  padding-left: 30px;
+  color:#4948BB;
+}
+
+
+
+.intro-body{
+
+  font-family: 'Lato', sans-serif;
+  text-align:left;
+  padding-left:30px;
+  margin-top:40px;
+  font-weight: lighter;
+  font-style: normal;
+  color: rgba(0, 0, 0, 0.473);
 
 }
+
+
+
+.number{
+
+  margin-left:30px;
+  margin-top:50px;
+  height:60px;
+  width:45%;
+  border:tomato 1.2px solid;
+  color: rgba(0, 0, 0, 0.473);
+  font-family: 'Lato', sans-serif !important;
+  padding: 5px 5px 5px 15px;
+  outline: none;
+
+  
+}
+
+.btn-request{
+
+  height:55px;
+  background-color:transparent;
+  border: #4948BB 1.2px solid;
+  background-color: #4948BB;
+  margin-left:3px;
+  padding: 12px 12px 12px 12px;
+  color: white;
+  font-size: 13px;
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+.policy{
+
+  font-family: 'Lato', sans-serif !important;
+  font-size:12px;
+  padding-left:30px;
+  text-align:left;
+  margin-top:45px;
+  color: rgba(0, 0, 0, 0.473);
+  margin-bottom: 10px;
+
+
+}
+
+
+
+.image-width{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  width:200px;
+  
+  
+  
+      }
+
+
+
+.colo-bac{
+
+  background-color:white;
+  min-height:80vh;
+  padding-left: 30px;
+  
+  }
+  
+
+  .tailor{
+      text-align: left !important;
+          font-family: 'Lato', sans-serif;
+          padding-left:4px;
+          margin-top:18px;
+          font-size:15px;
+          color:#4948BB;
+          
+      
+      }
+
+
+      .exp-1{
+
+          font-family: 'Lato', sans-serif;
+          color:tomato;   
+      font-weight: 700;
+      margin-top: 0px;
+      padding-left:30px;
+      
+      }
+
+
+      .exp-2{
+
+          padding-left:30px;   
+
+      }
+
+
+      .exp-3{
+
+ font-family: 'Lato', sans-serif;
+          color: rgba(0, 0, 0, 0.473);
+          margin-top: 30px;
+          font-weight: 700;
+          padding-left:30px;
+          font-size:15px;
+
+      }
+
+
+      .magic{
+
+          width:750px;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top:50px;
+          margin-bottom:30px;
+          
+          }
+
+          .exp-4{
+
+  font-family: 'Lato', sans-serif;
+  color: rgba(0, 0, 0, 0.473);
+  margin-top: 30px;
+  font-weight: 700;
+          }
+     
+
+          .gurl{
+
+           display: none;
+              
+              
+              }
+
+
+
+              .footer-link-2{
+
+                  margin-left:0px;
+                  padding-left:30px;
+                  text-align: center;
+                  
+                  }
+
+
+
+.colo-foter-padd{
+margin-left: 18px;
+
+}
+
+
+
+.logo{
+
+  width: 45px;
+  margin-top:25px;
+  margin-left:30px;
+  
+  }
+
+
+
+  .font-menu{
+
+      font-family: 'Lato', sans-serif;
+      font-weight: 300;
+      font-size:15px;
+      color:white !important;
+      margin-top:10px;
+      text-align: right;
+  }
+
+
+  .logo-2{
+display: none;
+      
+      }
+
+      .mrg-menu-credit{
+          margin-top: 150px;
+      }
+
+
+ }
+
+
 
 
 html, body {
@@ -695,3 +933,163 @@ html, body {
     position: relative
   }
   
+
+
+  .privacy{
+
+    font-family: 'Lato', sans-serif !important;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: tomato;
+
+  }
+
+
+  .terms{
+
+    font-family: 'Lato', sans-serif !important;
+    text-align: center;
+    color: #666666;
+    margin-bottom:100px;
+
+  }
+
+  .persona-1{
+
+    font-family: 'Lato', sans-serif !important;
+text-align:left;
+padding-left:30px;
+margin-top:100px;
+padding-right:30px;
+text-align: center;
+color: #666666;
+  }
+
+
+  .header-privacy{
+
+    font-family: 'Lato', sans-serif !important;
+    text-align:center;
+    margin-top: 50px;
+    font-size:20px;
+    color: #4948BB;
+
+  }
+
+
+  .body-text{
+
+    font-family: 'Lato', sans-serif !important;
+    text-align:center;
+    font-family:13px;
+    font-style: normal;
+    margin-top:30px;
+
+  }
+  
+
+  .space{
+
+margin-bottom:150px;
+
+  }
+
+
+  .card{
+
+
+border-radius: 8px;
+border: #F9FBFC solid 1px;
+background-color:#F9FBFC;
+width: 100%;
+min-height:35vh;
+margin-bottom:30px;
+box-shadow: 1.5px 1.5px rgba(74, 72, 187, 0.096);
+
+
+  }
+
+
+  .span-1 , .span-2 ,.span-3{
+
+    font-family: 'Lato', sans-serif !important;
+    font-weight: bolder;
+    color:#4948BB;
+    float: left;
+    padding:20px 20px 20px 20px;
+
+
+  }
+
+
+  .disc{
+
+    font-family: 'Lato', sans-serif !important;
+    padding: 20px 20px 20px 20px;
+    font-weight:500;
+
+
+  }
+
+
+  .careers-heading{
+
+    
+    font-family: 'Lato', sans-serif !important;
+    padding: 20px 20px 20px 20px;
+    color: #4948BB;
+    font-size: 23px;
+
+  }
+
+
+  .open{
+
+width:50%;
+height:60px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+font-family: 'Lato', sans-serif !important;
+padding: 15px 15px 15px 15px;
+color: white;
+background-color: #4948BB;
+border: transparent;
+margin-top: 100px;
+
+
+  }
+
+
+  .open:hover{
+
+    width:50%;
+    height:60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lato', sans-serif !important;
+    padding: 15px 15px 15px 15px;
+    color:#4948BB;
+    background-color:transparent;
+    border:1px solid #4948BB;
+    margin-top: 100px;
+    outline: none;
+    
+    
+      }
+
+
+  .status{
+
+text-align: center;
+margin-top: 30px;
+font-family: 'Lato', sans-serif !important;
+color: rgb(105, 102, 102);
+font-size:13px;
+
+
+
+
+  }
