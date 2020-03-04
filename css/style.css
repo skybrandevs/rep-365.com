@@ -478,7 +478,7 @@ margin-bottom:50px;
         display: block;
         margin-left: auto;
         margin-right: auto;
-        padding: 5px 5px 5px 15px;
+        padding: 5px 5px 5px 5px;
         font-size:11px;
         outline: none;
         -webkit-appearance: none;
@@ -496,7 +496,7 @@ margin-bottom:50px;
             margin-left: auto;
             margin-right: auto; 
             font-size:11px;
-            padding: 5px 5px 5px 15px;
+            padding: 5px 5px 5px 5px;
             outline: none !important;
             -webkit-appearance: none;
             border-radius: 0;
@@ -523,7 +523,7 @@ margin-bottom:50px;
             
             font-family: 'Lato', sans-serif !important;
           font-size:13px;
-          padding: 5px 5px 5px 15px;
+          padding: 5px 5px 5px 5px;
          
           }
         
@@ -862,7 +862,7 @@ and (max-height:1440px)
         display: block;
         margin-left: auto;
         margin-right: auto;
-        padding: 5px 5px 5px 15px;
+        padding: 5px 5px 5px 5px;
         font-size:11px;
         outline: none;
         -webkit-appearance: none;
@@ -880,7 +880,7 @@ and (max-height:1440px)
             margin-left: auto;
             margin-right: auto; 
             font-size:11px;
-            padding: 5px 5px 5px 15px;
+            padding: 5px 5px 5px 5px;
             outline: none !important;
             -webkit-appearance: none;
             border-radius: 0;
@@ -907,7 +907,7 @@ and (max-height:1440px)
             
             font-family: 'Lato', sans-serif !important;
           font-size:13px;
-          padding: 5px 5px 5px 15px;
+          padding: 5px 5px 5px 5px;
          
           }
         
