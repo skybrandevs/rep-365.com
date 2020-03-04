@@ -649,6 +649,9 @@ margin-bottom:50px;
     font-family: 'Lato', sans-serif !important;
     padding: 5px 5px 5px 15px;
     outline: none;
+    -webkit-appearance: none;
+    border-radius: 0;
+    
 
     
 }
@@ -1027,6 +1030,9 @@ and (max-height:1440px)
   font-family: 'Lato', sans-serif !important;
   padding: 5px 5px 5px 15px;
   outline: none;
+  -webkit-appearance: none;
+  border-radius: 0;
+  
 
   
 }
