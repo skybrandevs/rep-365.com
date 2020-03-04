@@ -481,6 +481,8 @@ margin-bottom:50px;
         padding: 5px 5px 5px 15px;
         font-size:11px;
         outline: none;
+        -webkit-appearance: none;
+        border-radius: 0;
         
         }
         
@@ -496,6 +498,8 @@ margin-bottom:50px;
             font-size:11px;
             padding: 5px 5px 5px 15px;
             outline: none !important;
+            -webkit-appearance: none;
+            border-radius: 0;
         }
         
         
@@ -861,6 +865,8 @@ and (max-height:1440px)
         padding: 5px 5px 5px 15px;
         font-size:11px;
         outline: none;
+        -webkit-appearance: none;
+        border-radius: 0;
         
         }
         
@@ -876,6 +882,8 @@ and (max-height:1440px)
             font-size:11px;
             padding: 5px 5px 5px 15px;
             outline: none !important;
+            -webkit-appearance: none;
+            border-radius: 0;
         }
         
         
