@@ -478,8 +478,8 @@ margin-bottom:50px;
         display: block;
         margin-left: auto;
         margin-right: auto;
-        padding: 5px 5px 5px 5px;
-        font-size:13px;
+        padding: 5px 5px 5px 5px !important;
+        font-size:13px !important ;
         outline: none;
         -webkit-appearance: none;
         border-radius: 0;
@@ -495,8 +495,8 @@ margin-bottom:50px;
             display: block;
             margin-left: auto;
             margin-right: auto; 
-            font-size:13px;
-            padding: 5px 5px 5px 5px;
+            font-size:13px !important;
+            padding: 5px 5px 5px 5px !important;
             outline: none !important;
             -webkit-appearance: none;
             border-radius: 0;
@@ -522,8 +522,8 @@ margin-bottom:50px;
         ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
             
             font-family: 'Lato', sans-serif !important;
-          font-size:13px;
-          padding: 5px 5px 5px 5px;
+          font-size:13px !important;
+          padding: 5px 5px 5px 5px !important;
          
           }
         
